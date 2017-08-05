@@ -4,7 +4,7 @@ FROM pensiero/apache-php
 LABEL maintainer "oscar.fanelli@gmail.com"
 
 # Mysql packages
-RUN apt-get update -q && apt-get install -yqq --force-yes \
+RUN apt update -q && apt install -yqq --force-yes \
     php-mysql
 
 # Start apache
