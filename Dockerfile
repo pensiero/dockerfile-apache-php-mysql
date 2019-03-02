@@ -1,4 +1,4 @@
-FROM pensiero/apache-php:php7.0
+FROM pensiero/apache-php:php7.2
 
 # Labels
 LABEL maintainer "oscar.fanelli@gmail.com"
