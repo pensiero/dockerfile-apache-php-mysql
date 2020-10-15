@@ -1,7 +1,7 @@
-FROM pensiero/apache-php:php7.0
+FROM pensiero/apache-php:php7.4
 
 # Labels
-LABEL maintainer "oscar.fanelli@gmail.com"
+LABEL maintainer="oscar.fanelli@gmail.com"
 
 # Mysql packages
 RUN apt update -q && apt install -yqq --force-yes \
