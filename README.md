@@ -9,6 +9,9 @@ Use as image tag `pensiero/apache-php-mysql`.
 While running, Apache is gonna look by default at the content of the folder `/var/www`.
 Use that as mount point for your volumes.
 
+### Which PHP version is used by default?
+`PHP 7.2`
+
 ### Available PHP versions
 Check out all the available tags here on [Docker Hub](https://hub.docker.com/repository/docker/pensiero/apache-php-mysql/tags).
 
