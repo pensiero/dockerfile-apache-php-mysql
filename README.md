@@ -10,12 +10,12 @@ While running, Apache is gonna look by default at the content of the folder `/va
 Use that as mount point for your volumes.
 
 ### Which PHP version is used by default?
-`PHP 7.2`
+`PHP 7.4`
 
 ### Available PHP versions
 Check out all the available tags on [Docker Hub](https://hub.docker.com/repository/docker/pensiero/apache-php-mysql/tags).
 
-If you wanna use a different php version, you can leverage any of following images:
+If you wanna use a different php version, you can leverage any of the following images:
 - `PHP 5.6` --> `pensiero/apache-php-mysql:php5.6`
 - `PHP 7.0` --> `pensiero/apache-php-mysql:php7.0` 
 - `PHP 7.1` --> `pensiero/apache-php-mysql:php7.1`
