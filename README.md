@@ -17,7 +17,6 @@ Check out all the available tags on [Docker Hub](https://hub.docker.com/reposito
 
 If you wanna use a different php version, you can leverage any of the following images:
 - `PHP 5.6` --> `pensiero/apache-php-mysql:php5.6`
-- `PHP 7.0` --> `pensiero/apache-php-mysql:php7.0` 
 - `PHP 7.1` --> `pensiero/apache-php-mysql:php7.1`
 - `PHP 7.2` --> `pensiero/apache-php-mysql:php7.2`
 - `PHP 7.4` --> `pensiero/apache-php-mysql:php7.4`
